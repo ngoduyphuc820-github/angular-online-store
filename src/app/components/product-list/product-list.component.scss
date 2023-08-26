@@ -1,0 +1,10 @@
+.productlist-container {
+  display: flex;
+  flex-flow: wrap;
+  margin-top: 15px;
+
+  .product-item {
+    padding: 20px;
+    width: 20%;
+  }
+}

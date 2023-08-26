@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "MacBook Air 13” với chip M1",
+    "urlImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mac-card-40-macbook-air-202110?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1664576115052",
+    "discription": "Chip Apple M1 mang lại hiệu năng máy học, CPU và GPU mạnh mẽ. Thời lượng pin lên tới 18 giờ, vì vậy bạn có thể sử dụng lâu hơn bao giờ hếtChú thích.",
+    "price": 1000
+  },
+  {
+    "id": "2",
+    "name": "MacBook Pro 13” với chip M1",
+    "urlImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mac-card-40-macbook-pro-13-202206?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1665082744007",
+    "discription": "Hoàn thành nhiều việc hơn nhanh hơn với chip Apple M2 thế hệ mới và hệ thống làm mát chủ động có thể duy trì các cấp độ hiệu năng chuyên nghiệp",
+    "price": 1500
+  },
+  {
+    "id": "3",
+    "name": "MacBook Air 13” & 15” với chip M2",
+    "urlImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mac-card-40-macbook-air-13-15-202306?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1684262493564",
+    "discription": "Thiết kế mỏng ấn tượng để bạn có thể làm việc, giải trí và sáng tạo gần như mọi thứ, ở mọi nơi. Hoàn thành nhiều việc hơn, nhanh hơn với chip Apple M2 nhanh như chớp",
+    "price": 1300
+  },
+  {
+    "id": "4",
+    "name": "MacBook Pro 14” và 16”",
+    "urlImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mac-card-40-macbook-pro-14-16-202301?wid=1200&hei=1000&fmt=p-jpg&qlt=95&.v=1670463778272",
+    "discription": "M2 Pro or M2 Max — chip mạnh và hiệu quả nhất từng có ở một chiếc máy tính xách tay chuyên nghiệp — giúp bạn xử lý những dự án nặng nhất",
+    "price": 2200
+  },
+  {
+    "id": "5",
+    "name": "Mac mini",
+    "urlImage": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/mac-mini-digitalmat-gallery-1-202301?wid=728&hei=666&fmt=png-alpha&.v=1670038163709",
+    "discription": "Mac mini biến mọi bàn làm việc thành máy trạm mạnh mẽ, để bạn có thể sáng tạo, lập trình và hợp tác",
+    "price": 900
+  }
+]

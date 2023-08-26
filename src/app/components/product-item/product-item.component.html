@@ -1,0 +1,29 @@
+<div class="card-container">
+  <div>
+    <img
+      (click)="showProductDetail(product.id)"
+      class="img-card"
+      alt="ProductDetail"
+      src="{{ product.urlImage }}"
+    />
+    <div>
+      <div class="card-content">
+        <p class="text-center">{{ product.name }}</p>
+        <p class="text-center">{{ product.price }}</p>
+        <p-dropdown
+          appendTo="body"
+          [baseZIndex]="9000"
+          [(ngModel)]="quantity"
+          [options]="quantities"
+        ></p-dropdown>
+        <div class="add-cart-btn">
+          <p-button (click)="addToCart(product, quantity)"
+            >Add to cart</p-button
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <p-toast></p-toast>
+</div>

@@ -1,0 +1,15 @@
+<div class="app-container">
+  <div class="app-header">
+    <h1>My Store</h1>
+  </div>
+  <div class="app-menu">
+    <button class="router-button" type="button">
+      <a [routerLink]="['']">Product List</a>
+    </button>
+
+    <button class="router-button" type="button">
+      <a [routerLink]="['/cart']">Cart</a>
+    </button>
+  </div>
+</div>
+<router-outlet></router-outlet>
